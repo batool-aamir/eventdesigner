@@ -38,7 +38,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/8.11.8/sweetalert2.min.js"></script>
     <script src="assets/plugins/lightbox2-dev/dist/js/lightbox.min.js"></script>
     <script src="assets/plugins/isotope.pkgd.min.js"></script>
-    <script src="assets/js/script.js"></script>
+    <script src="<?php echo get_stylesheet_directory_uri().'js/script.js';?>"></script>
 
 </body>
 

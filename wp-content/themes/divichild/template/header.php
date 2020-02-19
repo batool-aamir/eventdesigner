@@ -14,7 +14,7 @@
     <link href="../plugins/flati/flati/css/flati.min.css" rel="stylesheet">
     <link href="../plugins/lightbox2-dev/dist/css/lightbox.min.css" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/8.11.8/sweetalert2.min.css" rel="stylesheet">
-    <link href="../style.css" rel="stylesheet">
+    <link href=" <?php echo get_stylesheet_directory_uri().'/style.css';?>" rel="stylesheet">
     <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/logo-ideas/logo.jpg">
     <title>CELEBRATIONS-Event Designer</title>
 
